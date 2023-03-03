@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Personaje",
-  "categories": ["ANALYTICS", "PERSONALIZATION", "REMARKETING"]
+  "categories": ["ANALYTICS", "PERSONALIZATION", "REMARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",

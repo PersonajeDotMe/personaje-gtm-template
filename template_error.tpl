@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Personaje",
-  "categories": ["ANALYTICS", "PERSONALIZATION", "REMARKETING"]
+  "categories": ["ANALYTICS","PERSONALIZATION","REMARKETING"]
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -145,6 +145,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 3/3/2023, 10:41:08 AM
+Created on 3/2/2023, 6:00:22 PM
 
 

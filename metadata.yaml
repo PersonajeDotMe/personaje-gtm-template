@@ -1,0 +1,5 @@
+homepage: "https://www.personaje.me"
+documentation: "https://github.com/personaje/personaje-gtm-template/README.md"
+versions:
+  - sha: ???
+    changeNotes: Initial release.

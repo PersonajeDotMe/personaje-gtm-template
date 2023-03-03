@@ -1,5 +1,5 @@
 homepage: "https://www.personaje.me"
 documentation: "https://github.com/personaje-me/personaje-gtm-temlate/blob/main/README.md"
 versions:
-  - sha: 13d7bd6e669cedc8d35c4c4a44236a75bd18107d
+  - sha: 17812f25bfc3d71dab8aaa73adf8f64d5b56de5e
     changeNotes: Initial release.
